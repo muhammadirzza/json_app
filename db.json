@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 2,
+      "username": "babaisyou",
+      "deskripsi": "flag is win"
+    },
+    {
+      "username": "1212",
+      "deskripsi": "123",
+      "id": 4
+    },
+    {
+      "username": "asas",
+      "deskripsi": "asad",
+      "id": 5
+    },
+    {
+      "username": "as",
+      "deskripsi": "qwqw",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "username": "tesasas",
+      "deskripsi": "sdas"
+    },
+    {
+      "username": "asasasas",
+      "deskripsi": "asas",
+      "id": 10
+    },
+    {
+      "username": "asas",
+      "deskripsi": "sasasas",
+      "id": 11
+    }
+  ]
+}
